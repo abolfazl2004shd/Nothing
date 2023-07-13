@@ -1,0 +1,15 @@
+C:\Users\Abolfazl\source\repos\ap\bin\Debug\net7.0\ap.exe
+C:\Users\Abolfazl\source\repos\ap\bin\Debug\net7.0\ap.deps.json
+C:\Users\Abolfazl\source\repos\ap\bin\Debug\net7.0\ap.runtimeconfig.json
+C:\Users\Abolfazl\source\repos\ap\bin\Debug\net7.0\ap.dll
+C:\Users\Abolfazl\source\repos\ap\bin\Debug\net7.0\ap.pdb
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.csproj.AssemblyReference.cache
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.AssemblyInfoInputs.cache
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.AssemblyInfo.cs
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.csproj.CoreCompileInputs.cache
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.dll
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\refint\ap.dll
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.pdb
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ap.genruntimeconfig.cache
+C:\Users\Abolfazl\source\repos\ap\obj\Debug\net7.0\ref\ap.dll
